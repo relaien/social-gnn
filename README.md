@@ -61,14 +61,10 @@ This project demonstrates the application of Graph Neural Networks (GNNs) for li
 - **AUC**: 0.6689
 - **AP**: 0.7389
 
-### Inference Example
+### Inference 
 - **Edge**: [3017, 3869]
 - **Predicted Value**: 0.4387
 - **Actual Value**: 1.0000
 - **Absolute Error**: 0.5613
 
 ---
-
-## Conclusion
-- Demonstrated the application of an enhanced GNN for link prediction.
-- Achieved moderate predictions and performance metrics
